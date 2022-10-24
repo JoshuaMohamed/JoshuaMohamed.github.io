@@ -54306,7 +54306,7 @@ A.nl.prototype={}
 A.qE.prototype={
 J(a){var s=null
 a.U(t.w).toString
-return new A.tQ(A.a4Z(A.a([A.dV(s,60,s),new A.Bd(s),new A.n8(s),new A.uj("WELCOME TO MY PORTFOLIO","Here you will find the projects I'm most proud of, as well as a copy of my CV listing my skills and experience. I made this site with Flutter - it's multi-platform. Why not try resizing the window or opening on a different device?",s),new A.n8(s),new A.uj("ABOUT ME","I'm a Year 13 student in Brighton, studying Maths, Further Maths and Computer Science. I have experience with Dart, Python, C and Java.",s),new A.n8(s),A.dV(s,s,20)],t.p),B.eM,B.aB),s)}}
+return new A.tQ(A.a4Z(A.a([A.dV(s,70,s),new A.Bd(s),new A.n8(s),new A.uj("WELCOME TO MY PORTFOLIO","Here you will find the projects I'm most proud of, as well as a copy of my CV listing my skills and experience. I made this site with Flutter - it's multi-platform. Why not try resizing the window or opening on a different device?",s),new A.n8(s),new A.uj("ABOUT ME","I'm a Year 13 student in Brighton, studying Maths, Further Maths and Computer Science. I have experience with Dart, Python, C and Java.",s),new A.n8(s),A.dV(s,s,20)],t.p),B.eM,B.aB),s)}}
 A.nq.prototype={
 J(a){var s,r=null,q=a.U(t.w).f.a.a>800,p=this.c,o=q?r:new A.Bk(p,r),n=t.p,m=A.a([new A.DD(new A.pI(this.d,r),!1,r)],n),l=!0
 l=l?B.uP:r
@@ -54332,7 +54332,7 @@ ad(){var s,r=new A.aJ(new Float64Array(16))
 r.c7()
 s=new A.aJ(new Float64Array(16))
 s.c7()
-s.kG(0,0,-3,0)
+s.kG(0,0,-5,0)
 return new A.Gh(r,s,B.m)}}
 A.Gh.prototype={
 J(a){var s=this,r=null,q=s.f?s.e:s.d,p=s.a.c
@@ -54349,7 +54349,7 @@ $0(){this.a.f=this.b},
 $S:0}
 A.za.prototype={
 J(a){var s=null,r="/projects"
-return new A.pI(A.dL(s,A.tz(A.a([A.dV(s,s,30),new A.nj(B.lD,"","/home",s),new A.DK(s),new A.nj(B.lB,"Projects",r,s),A.dV(s,s,30),new A.nj(B.lC,"CV",r,s),A.dV(s,s,30)],t.p),B.Cx,B.aB),B.o,B.eL,s,s,s,60,s,s,s,s,s),s)}}
+return new A.pI(A.dL(s,A.tz(A.a([A.dV(s,s,30),new A.nj(B.lD,"","/home",s),new A.DK(s),new A.nj(B.lB,"Projects",r,s),A.dV(s,s,30),new A.nj(B.lC,"CV",r,s),A.dV(s,s,30)],t.p),B.Cx,B.aB),B.o,B.eL,s,s,s,70,s,s,s,s,s),s)}}
 A.rk.prototype={
 wy(){var s=0,r=A.a5(t.z),q=this,p,o,n,m
 var $async$wy=A.a6(function(a,b){if(a===1)return A.a2(b,r)
@@ -54372,7 +54372,7 @@ $0(){return this.a.wy()},
 $S:0}
 A.Ba.prototype={
 J(a){var s=null
-return A.dL(B.aa,A.tz(A.a([A.dV(s,s,10),new A.rk(this.c,s)],t.p),B.bF,B.aB),B.o,B.eL,s,s,s,60,s,s,s,s,s)}}
+return A.dL(B.aa,A.tz(A.a([A.dV(s,s,10),new A.rk(this.c,s)],t.p),B.bF,B.aB),B.o,B.eL,s,s,s,70,s,s,s,s,s)}}
 A.nj.prototype={
 J(a){var s=null
 return new A.mR(A.a5i(!1,!0,A.tz(A.a([A.a8m(this.c,B.aP,s),A.dV(s,s,5),A.ui(this.d,s,A.aM(a).RG.y,s)],t.p),B.bF,B.aB),s,!0,s,s,s,s,s,s,s,s,s,new A.Sj(this),s,s,s,s),s)}}
@@ -54381,7 +54381,7 @@ $0(){$.L5().$1$0(t.p_).a.gaD().w9(this.a.e,t.X)},
 $S:0}
 A.Bk.prototype={
 J(a){var s=null,r="/projects",q=A.a([new A.fD(0,B.ep,B.le,B.f,16)],t.xq),p=this.c,o=t.p
-return A.dL(s,A.a4Z(A.a([A.dL(s,A.tz(A.a([A.dV(s,s,10),new A.rk(p,s)],o),B.bF,B.aB),B.o,B.eL,s,s,s,60,s,s,s,s,s),A.dV(s,10,s),new A.nk(B.lD,"Home","/home",p,s),new A.nk(B.lB,"Projects",r,p,s),new A.nk(B.lC,"CV",r,p,s)],o),B.eM,B.aB),B.o,s,s,new A.f0(B.i,s,s,s,q,s,B.aY),s,s,s,s,s,s,240)}}
+return A.dL(s,A.a4Z(A.a([A.dL(s,A.tz(A.a([A.dV(s,s,10),new A.rk(p,s)],o),B.bF,B.aB),B.o,B.eL,s,s,s,70,s,s,s,s,s),A.dV(s,10,s),new A.nk(B.lD,"Home","/home",p,s),new A.nk(B.lB,"Projects",r,p,s),new A.nk(B.lC,"CV",r,p,s)],o),B.eM,B.aB),B.o,s,s,new A.f0(B.i,s,s,s,q,s,B.aY),s,s,s,s,s,s,240)}}
 A.nk.prototype={
 J(a){var s=null
 return new A.mR(A.a5i(!1,!0,new A.i0(B.yT,A.tz(A.a([A.a8m(this.c,B.aP,30),A.dV(s,s,30),A.ui(this.d,s,A.aM(a).RG.y,s)],t.p),B.bF,B.aB),s),s,!0,s,s,s,s,s,s,s,s,s,new A.Sk(this),s,s,s,s),s)}}
